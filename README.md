@@ -21,11 +21,13 @@ The law has not kept up with this new technology, and our economic system also h
 If your modifictaion to hello world or any other program is only minor, or you want to fix some bugs you find, or possibly improve the program in some minor way, then this may apply to you:
 
 <blockquote cite="https://www.gnu.org/licenses/gpl-faq.en.html#GPLCommercially">
-If I use a piece of software that has been obtained under the GNU GPL, am I allowed to modify the original code into a new program, then distribute and sell that new program commercially? (#GPLCommercially)
+    If I use a piece of software that has been obtained under the GNU GPL, am I allowed to modify the original code into a new program, then distribute and sell that new program commercially? (#GPLCommercially)
 
     You are allowed to sell copies of the modified program commercially, but only under the terms of the GNU GPL. Thus, for instance, you must make the source code available to the users of the program as described in the GPL, and they must be allowed to redistribute and modify it as described in the GPL.
 
     These requirements are the condition for including the GPL-covered code you received in a program of your own.
+
+    Source: https://www.gnu.org/licenses/gpl-faq.en.html#GPLCommercially
 </blockquote>
 
 Some basic references
