@@ -10,5 +10,7 @@ If a derived work is sufficiently different from the original work, it might be 
 
 Some basic references
 
-1) Software copyright: https://en.wikipedia.org/wiki/Software_copyright
-2) Derivative work: https://en.wikipedia.org/wiki/Derivative_work
+<ul>
+<li>1) Software copyright: https://en.wikipedia.org/wiki/Software_copyright</li>
+<li>2) Derivative work: https://en.wikipedia.org/wiki/Derivative_work</li>
+</ul>
