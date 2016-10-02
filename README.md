@@ -2,17 +2,19 @@
 
 The following material is a guide only. The forces of econmics sometimes make things more complicated (the way software is designed, produces and sold may not make sense to you at all times--for a very good reason, you might be right). Also, you should seek legal help, especially if you intend to make software for profit. GNU GPL and some for cost software (including computer languages) will allow you to create new things, that in most cases will belong to you. Some computer languages do use third party libraries for example, and you may need to find out what happens if you incude those third party libraries in your code. If you work for a company or study at a school, they may also argue that they own what you create--and yes that's wrong, but not leagally wrong it seems.
 
-GNU GPL also has the added benifit (and perhaps the major benifit to many) that you can fix, or modify programs in a minor way so that it's still got the owner's copyright, and you must also use a similar GPU GPL licence (from what the author understands to be the case). Commerical applications, and software don't often allow you to look under the hood, and customize, modify, or fix things--and part of the way they prevent that is by restricting your access, and by keeping things a secret.
+GNU GPL also has the added benifit (and perhaps the major benifit to many) that you can fix, or modify programs in a minor way so that it's still got the owner's copyright, and you must also use a similar GNU GPL licence (from what the author understands to be the case). Commerical applications, and software don't often allow you to look under the hood, and customize, modify, or fix things--and part of the way they prevent that is by restricting your access, and by keeping things a secret.
 
 With a GNU GPL the owner can merge your modifications or fixes if they wish to--taking some of the blame if you get things wrong, but still giving you some credit for the good changes. On the other hand if the owner does not merge your work, it may continue on it's own branch, and you may end up with a reputation based on how good or useful those changes were.
 
-If you are not a user of github, then your modified program would still need to carry the orginal GNU GPL license, and that means crediting the copyright owner by default:
+If you are not a user of github, then your modified program would still need to carry the orginal GNU GPL license, and that means crediting the copyright owner by default. while you will still get credit for you modifications:
 
 <blockquote cite="https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit">
 You can certainly get credit for the work. Part of releasing a program under the GPL is writing a copyright notice in your own name (assuming you are the copyright holder). The GPL requires all copies to carry an appropriate copyright notice.
 
 Source: https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit
 </blockquote>
+
+However GNU GPL also state that your modifications in "most cases" will have copyright, meaning you will have to ask the owner to merge your changes to thier project (which they can do so under a GPL GNU licence anyway), because if you are not on github, they may not know of your modifications. However some copyright owners don't maintain their projects and that may meant your modified version might become the new updated version that people will may use to do futher updates and changes under the GNU GPL licence.
 
 One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licenses).
 
