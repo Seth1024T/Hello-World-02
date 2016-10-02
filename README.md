@@ -2,7 +2,7 @@
 
 The following material is a guide only. The forces of econmics sometimes make things more complicated (the way software is designed, produces and sold may not make sense to you at all times--for a very good reason, you might be right). Also, you should seek legal help, especially if you intend to make software for profit. GNU GPL and some for cost software (including computer languages) will allow you to create new things, that in most cases will belong to you. Some computer languages do use third party libraries for example, and you may need to find out what happens if you incude those third party libraries in your code. If you work for a company or study at a school, they may also argue that they own what you create--and yes that's wrong, but not leagally wrong it seems.
 
-One thing to note about Github is that it can be a community that is private or public, and the resultant software can be of may type from commerical to non-commercial.
+One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licences).
 
 <blockquote cite="https://guides.github.com/activities/hello-world/#what">
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
