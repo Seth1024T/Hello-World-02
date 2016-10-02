@@ -6,6 +6,14 @@ GNU GPL also has the added benifit (and perhaps the major benifit to many) that 
 
 With a GNU GPL the owner can merge your modifications or fixes if they wish to--taking some of the blame if you get things wrong, but still giving you some credit for the good changes. On the other hand if the owner does not merge your work, it may continue on it's own branch, and you may end up with a reputation based on how good or useful those changes were.
 
+If you are not a user of github, then your modified program would still need to carry the orginal GNU GPL license, and that means crediting the copyright owner by default:
+
+<blockquote cite="https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit">
+You can certainly get credit for the work. Part of releasing a program under the GPL is writing a copyright notice in your own name (assuming you are the copyright holder). The GPL requires all copies to carry an appropriate copyright notice.
+
+Source: https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit
+</blockquote>
+
 One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licenses).
 
 <blockquote cite="https://guides.github.com/activities/hello-world/#what">
