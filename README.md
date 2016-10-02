@@ -16,6 +16,14 @@ Source: https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit
 
 However GNU GPL also state that your modifications in "most cases" will have copyright, meaning you will have to ask the owner to merge your changes to thier project (which they can do so under a GPL GNU licence anyway), because if you are not on github, they may not know of your modifications. However some copyright owners don't maintain their projects and that may meant your modified version might become the new updated version that people will may use to do futher updates and changes under the GNU GPL licence.
 
+<blockquote cite="https://www.gnu.org/licenses/gpl-faq.en.html#RequiredToClaimCopyright">
+     You are not required to claim a copyright on your changes. In most countries, however, that happens automatically by default, so you need to place your changes explicitly in the public domain if you do not want them to be copyrighted.
+
+    Whether you claim a copyright on your changes or not, either way you must release the modified version, as a whole, under the GPL (if you release your modified version at all).
+    
+    Source: https://www.gnu.org/licenses/gpl-faq.en.html#RequiredToClaimCopyright
+</blockquote>
+
 One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licenses).
 
 <blockquote cite="https://guides.github.com/activities/hello-world/#what">
