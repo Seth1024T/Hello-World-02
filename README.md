@@ -14,7 +14,7 @@ You can certainly get credit for the work. Part of releasing a program under the
 Source: https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit
 </blockquote>
 
-However GNU GPL also state that your modifications in "most cases" will have copyright, meaning you will have to ask the owner to merge your changes to thier project (which they can do so under a GPL GNU licence anyway), because if you are not on github, they may not know of your modifications. However some copyright owners don't maintain their projects and that may meant your modified version might become the new updated version that people will may use to do futher updates and changes under the GNU GPL licence.
+However GNU GPL also state that your modifications in "most cases" will have copyright, meaning you will have to ask the owner to merge your changes to thier project (which they can do so under a GPL GNU licence anyway), because if you are not on github, they may not know of your modifications. However some copyright owners don't maintain their projects and that may mean your modified version might become the new updated version that people will may use to do futher updates and changes under the GNU GPL licence.
 
 <blockquote cite="https://www.gnu.org/licenses/gpl-faq.en.html#RequiredToClaimCopyright">
      You are not required to claim a copyright on your changes. In most countries, however, that happens automatically by default, so you need to place your changes explicitly in the public domain if you do not want them to be copyrighted.
@@ -32,7 +32,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Source: https://guides.github.com/activities/hello-world/#what
 </blockquote>
 
-Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have its own copyright added to it (and any applicable licenses if desired).
+Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have its own copyright added to it (and any applicable licenses if desired). This situation is not generally discussed in a GNU GPL, but as a software designer, you will often cross this grey line, and make somthing truely differnt that is considered original.
 
 Hello world 02 Project: Make a program that says hello to a user that logs in using a password, or creates a password that is linked to thier nick-name/user-name (or real-name if they so desire). A local file can store the infomation about the user or users.
 
