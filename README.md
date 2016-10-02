@@ -2,6 +2,14 @@
 
 The following material is a guide only. The forces of econmics sometimes make things more complicated (the way software is designed, produces and sold may not make sense to you at all times--for a very good reason, you might be right). Also, you should seek legal help, especially if you intend to make software for profit. GNU GPL and some for cost software (including computer languages) will allow you to create new things, that in most cases will belong to you. Some computer languages do use third party libraries for example, and you may need to find out what happens if you incude those third party libraries in your code. If you work for a company or study at a school, they may also argue that they own what you create--and yes that's wrong, but not leagally wrong it seems.
 
+One thing to note about Github is that it can be a community that is private or public, and the resultant software can be of may type from commerical to non-commercial.
+
+<blockquote cite="https://guides.github.com/activities/hello-world/#what">
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+Source: https://guides.github.com/activities/hello-world/#what
+</blockquote>
+
 Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have it's own copyright added to it (and any applicable licences if desired).
 
 Hello world 02 Project: Make a program that says hello to a user that logs in using a password, or creates a password that is linked to thier nick-name/user-name (or real-name if they so desire). A local file can store the infomation about the user or users.
