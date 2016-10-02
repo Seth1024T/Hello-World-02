@@ -2,7 +2,7 @@
 
 The following material is a guide only. The forces of econmics sometimes make things more complicated (the way software is designed, produces and sold may not make sense to you at all times--for a very good reason, you might be right). Also, you should seek legal help, especially if you intend to make software for profit. GNU GPL and some for cost software (including computer languages) will allow you to create new things, that in most cases will belong to you. Some computer languages do use third party libraries for example, and you may need to find out what happens if you incude those third party libraries in your code. If you work for a company or study at a school, they may also argue that they own what you create--and yes that's wrong, but not leagally wrong it seems.
 
-One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licences).
+One thing to note about Github: is that it can be a community that is private, or public. The resultant software and how it is used is defined by the group that produces it (including licenses).
 
 <blockquote cite="https://guides.github.com/activities/hello-world/#what">
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -10,7 +10,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Source: https://guides.github.com/activities/hello-world/#what
 </blockquote>
 
-Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have it's own copyright added to it (and any applicable licences if desired).
+Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have it's own copyright added to it (and any applicable licenses if desired).
 
 Hello world 02 Project: Make a program that says hello to a user that logs in using a password, or creates a password that is linked to thier nick-name/user-name (or real-name if they so desire). A local file can store the infomation about the user or users.
 
@@ -18,9 +18,9 @@ By creating a significantly different program from hello world, we might conside
 
 The distinction of a new program versus a slight modification of a existing program is somthing you have to keep in mind.
 
-Finally GNU GPL may give you some confidence to use free libraries of code (functions, classes, data structures, maps, pictures, videos and so on: some stuff might be better licenced under creative commons however).
+Finally GNU GPL may give you some confidence to use free libraries of code (functions, classes, data structures, maps, pictures, videos and so on: some stuff might be better licensed under creative commons however).
 
-Some langauges, resources, and libraries are specifically sold so you can use them to create new programs--so that pathway to creating stuff also exists, and you can always licence your new creations under GNU GPL in such cases: since you should have copyright of anything original you create (unless your company or school you study in wants to claim it).
+Some langauges, resources, and libraries are specifically sold so you can use them to create new programs--so that pathway to creating stuff also exists, and you can always license your new creations under GNU GPL in such cases: since you should have copyright of anything original you create (unless your company or school you study in wants to claim it).
 
 When is a derived work so different that it's has it's own copyright
 This program builds on and modifies a program called hello world (link: https://github.com/Seth1024T/Hello-World).
