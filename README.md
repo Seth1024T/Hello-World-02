@@ -1,7 +1,18 @@
 # Hello-World-02
+
+The following material is a guide only. The forces of econmics sometimes make things more complicated (the way software is designed, produces and sold may not make sense to you at all times--for a very good reason, you might be right). Also, you should seek legal help, especially if you intend to make software for profit. GNU GPL and some for cost software (including computer languages) will allow you to create new things, that in most cases will belong to you. Some computer languages do use third party libraries for example, and you may need to find out what happens if you incude those third party libraries in your code. If you work for a company or study at a school, they may also argue that they own what you create--and yes that's wrong, but not leagally wrong it seems.
+
 Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have it's own copyright added to it (and any applicable licences if desired).
 
 Hello world 02 Project: Make a program that says hello to a user that logs in using a password, or creates a password that is linked to thier nick-name/user-name (or real-name if they so desire). A local file can store the infomation about the user or users.
+
+By creating a significantly different program from hello world, we might consider this program a seperate program for the puposes of copyright. However we will take a look at Hello World to see if we can use or modify some of the stuff it has, and think about how it's concepts might be redefined for the purposes of our own project (the community that takes a interest in this type of program). This is good practice, since even if you create all or most of your own code, you will forget what you did, and will have to go back and study your own code, and you may find you had some good ideas there that could be repurposed for your new project. You may also find some other projects may be useful in giving you some ideas for you new project.
+
+The distinction of a new program versus a slight modification of a existing program is somthing you have to keep in mind.
+
+Finally GNU GPL may give you some confidence to use free libraries of code (functions, classes, data structures, maps, pictures, videos and so on: some stuff might be better licenced under creative commons however).
+
+Some langauges, resources, and libraries are specifically sold so you can use them to create new programs--so that pathway to creating stuff also exists, and you can always licence your new creations under GNU GPL in such cases: since you should have copyright of anything original you create (unless your company or school you study in wants to claim it).
 
 When is a derived work so different that it's has it's own copyright
 This program builds on and modifies a program called hello world (link: https://github.com/Seth1024T/Hello-World).
