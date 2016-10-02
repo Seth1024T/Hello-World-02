@@ -32,7 +32,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 Source: https://guides.github.com/activities/hello-world/#what
 </blockquote>
 
-Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have its own copyright added to it (and any applicable licenses if desired). This situation is not generally discussed in a GNU GPL, but as a software designer, you will often cross this grey line, and make somthing truely differnt that is considered original.
+Hello world 02: Attempt to make a derived work that is so different from hello world (https://github.com/Seth1024T/Hello-World), that it can have its own copyright added to it (and any applicable licenses if desired). This situation is not generally discussed in a GNU GPL, but as a software designer, you will often cross this grey line, and make something that's truely different, and is considered to be original work.
 
 Hello world 02 Project: Make a program that says hello to a user that logs in using a password, or creates a password that is linked to thier nick-name/user-name (or real-name if they so desire). A local file can store the infomation about the user or users.
 
